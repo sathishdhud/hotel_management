@@ -440,4 +440,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support and inquiries:
 - Email: support@hotelworks.com
 - Website: https://hotelworks.com
-- Documentation: http://localhost:8080/swagger-ui.html
+- Documentation: http://localhost:8080/swagger-ui.html# workstar
